@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+After a while thinking about starting my very own blog, it's here!
 
-### More Information
+This blog is where I'll document my thoughts, experiments, work and exciting (or just interesting) things I learn..
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+See links below:
